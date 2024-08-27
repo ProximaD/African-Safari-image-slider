@@ -44,3 +44,6 @@ git clone https://github.com/ProximaD/Portfolio.git
 GitHub: ProximaD
 
 Profile: ProximaD.github.io
+
+![project-thumbnail](https://github.com/user-attachments/assets/bd9b1b6e-f781-479e-9f92-4e1e8a3480a9)
+
