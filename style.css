@@ -103,7 +103,7 @@ body{
 
 .content button:hover{
     background: #efdb11;
-    color:#fff;
+    color:#000;
 }
 
 @keyframes animate{
