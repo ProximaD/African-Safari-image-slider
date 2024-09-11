@@ -1,6 +1,6 @@
-# Image-slider Website
-
 # Sandra Lavenda's Portfolio 
+
+# Image-slider Website
 
 Responsive Image Slider website design using HTML5, CSS3 and JavaScript
 This is my programming portfolio that details my past and present projects. 
